@@ -95,7 +95,7 @@ border-radius: 3px;
 }
 .one{
     top: 450px;
-    right: -140px;
+    right: -170px;
 }
 .two{
     top: -80px;
@@ -104,7 +104,7 @@ border-radius: 3px;
 }
 .three{
     bottom: 450px;
-    left: -130px;
+    left: -240px;
     transform: rotate(-180deg);
 }
 .four{
